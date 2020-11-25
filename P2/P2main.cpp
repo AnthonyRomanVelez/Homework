@@ -13,13 +13,13 @@ void square_of_asterisks(unsigned n)
 		cout << endl;
 	}
 }
-int main()
+int main() //It took me a while to figure how to use GibHub but I think I'm getting there.
 {
 	unsigned n = 0;
-	cout << "Enter number: ";
+	cout << "Enter number: ";//Modifying the brand that I created from Master.
 	cin >> n;
 
 	square_of_asterisks(n);
-
+	ABCD
 	return 0;
 }
