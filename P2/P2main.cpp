@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//My first time using GibHub!
 //Create function named square of asterisks
 void square_of_asterisks(unsigned n)
 {
